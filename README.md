@@ -5,7 +5,7 @@ Hi there, I'm Batuhan</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Finance and Data Analyst 💻 and Financer 🏦!
+I'm a Finance and Data Analyst 💻
 </h2> 
 
 Finance and data are related to each other. When I studied Finance and Accounting, I discover programming to get better results. Thus, I am transforming finance and accounting information to code. Also, I am supporting open-source codes. You can find my journey on Github and I always update my codes in this process. Learn with me !!!
