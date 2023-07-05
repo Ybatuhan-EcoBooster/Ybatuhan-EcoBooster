@@ -3,7 +3,9 @@
 <h3 align="center">
 Hi there, I'm Batuhan</a> 👋
 </h3>
-
+<h3 align="left">
+![notion avatar](https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo4LCJub3NlIjowLCJtb3V0aCI6MSwiZXllcyI6MiwiZXllYnJvd3MiOjIsImdsYXNzZXMiOjEwLCJoYWlyIjoxNCwiYWNjZXNzb3JpZXMiOjEzLCJkZXRhaWxzIjowLCJiZWFyZCI6MCwiZmxpcCI6MCwiY29sb3IiOiIjZmFkYjE0Iiwic2hhcGUiOiJjaXJjbGUifQ==)
+</h3>
 <h2 align="center">
 I'm a Finance and Data Analyst 💻
 </h2> 
