@@ -21,7 +21,7 @@ I'm a Finance and Data Analyst 💻
 
 ## 💼 Technical Skills
 
-<img src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo4LCJub3NlIjowLCJtb3V0aCI6MSwiZXllcyI6MiwiZXllYnJvd3MiOjIsImdsYXNzZXMiOjEwLCJoYWlyIjoxNCwiYWNjZXNzb3JpZXMiOjEzLCJkZXRhaWxzIjowLCJiZWFyZCI6MCwiZmxpcCI6MCwiY29sb3IiOiIjMmY1NGViIiwic2hhcGUiOiJzcXVhcmUifQ==" alt="notion avatar" width="250" height="250" align="right">
+<img src="https://github.com/Ybatuhan-EcoBooster/NotionFinanceProject/assets/110935969/085b1e7b-f2ae-4c85-b81f-9c4e366b5d71" alt="notion avatar" width="250" height="250" align="right">
 
 ### 📋 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
