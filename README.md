@@ -34,4 +34,5 @@ I'm a Finance and Data Analyst 💻
 
 ### 🎯 Extra 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<img src="https://images.credly.com/size/220x220/images/47a284dc-266a-4e74-bb5e-f41df1d6edcb/image.png" alt="McKinsey" width="60" height="60" align="center-left">
 
